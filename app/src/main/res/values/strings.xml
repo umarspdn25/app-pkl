@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PKL TSM</string>
+    <string name="app_name_student">PKL TSM Siswa</string>
+    <string name="app_name_admin">Admin PKL TSM</string>
+    <string name="school_name">SMK NEGERI CIPATUJAH</string>
+    <string name="department_name">TEKNIK SEPEDA MOTOR</string>
+    <string name="tagline_attendance">Sistem Presensi Siswa Praktik Kerja Lapangan</string>
+
+    <!-- Navigation & Common -->
+    <string name="login_title">Masuk ke Akun</string>
+    <string name="nisn_label">NISN Siswa</string>
+    <string name="nisn_hint">Masukkan 10 digit NISN</string>
+    <string name="password_label">Kata Sandi</string>
+    <string name="password_hint">Masukkan kata sandi Anda</string>
+    <string name="btn_login">MASUK</string>
+    <string name="btn_logout">Keluar</string>
+    <string name="btn_sync">Sinkronkan</string>
+    <string name="home_title">Beranda PKL</string>
+    <string name="history_title">Riwayat Presensi</string>
+    <string name="profile_title">Biodata Siswa</string>
+    <string name="admin_title">Dashboard Administrator</string>
+
+    <!-- Attendance -->
+    <string name="attendance_in">Presensi Masuk</string>
+    <string name="attendance_out">Presensi Pulang</string>
+    <string name="capture_selfie">Ambil Foto Selfie</string>
+    <string name="retake_photo">Ambil Ulang</string>
+    <string name="confirm_attendance">Kirim Presensi</string>
+    <string name="location_gps">Koordinat GPS</string>
+    <string name="gps_accuracy">Akurasi GPS</string>
+    <string name="distance_to_pkl">Jarak ke Bengkel PKL</string>
+
+    <!-- Statuses -->
+    <string name="status_on_time">Hadir Tepat Waktu</string>
+    <string name="status_late">Terlambat</string>
+    <string name="status_very_late">Terlambat Berat</string>
+    <string name="status_early_out">Pulang Lebih Awal</string>
+    <string name="status_scheduled_out">Pulang Sesuai Jadwal</string>
+    <string name="status_pending_validation">Menunggu Validasi</string>
+    <string name="status_holiday">HARI LIBUR</string>
+
+    <!-- Sync status -->
+    <string name="sync_synced">Data Tersinkron</string>
+    <string name="sync_syncing">Sedang Menyinkronkan…</string>
+    <string name="sync_offline">Mode Offline (Tersimpan Lokal)</string>
+    <string name="sync_failed">Gagal Sinkron</string>
+</resources>
+

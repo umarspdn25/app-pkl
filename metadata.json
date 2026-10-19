@@ -1,0 +1,6 @@
+{
+  "name": "PKL TSM",
+  "description": "Aplikasi Presensi Siswa PKL TSM SMK Negeri Cipatujah dengan Kamera Selfie, GPS, dan Integrasi Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
